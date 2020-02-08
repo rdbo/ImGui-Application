@@ -1,4 +1,4 @@
-# ImGui Application
+# ImGui Application (DirectX 9)
 <h1>Setting up the solution</h1>
 <ul>
   <li>Download and install <a href="https://www.microsoft.com/en-us/download/details.aspx?id=6812">DirectX SDK</a></li>
